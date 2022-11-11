@@ -9,10 +9,10 @@
 
 <p>
   <em>
-    Computer Science Junior at <a href="http://www.unb.br">University of South Florida</a>
+    Computer Science Junior at <a href="https://www.usf.edu/">University of South Florida</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     </br>
-  Software Developer & IT Consultant at <a href="https://www.thoughtworks.com">USF Honors College</a>
+  Software Developer & IT Consultant at <a href="https://github.com/USF-Honors-College">USF Honors College</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em>
 </p>
