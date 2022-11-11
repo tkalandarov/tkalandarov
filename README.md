@@ -5,9 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tkalandarov/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/timsprivatechats)
-[![Website Badge](https://img.shields.io/badge/-Website-blue?style=flat)](https://tkalandarov.com)
-
- <img src="me.jpg" width="180">
+[![Website Badge](https://img.shields.io/badge/-Website-blue?style=flat)](http://tkalandarov.com/)
 
 <p>
   <em>
