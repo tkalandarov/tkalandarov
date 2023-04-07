@@ -19,6 +19,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-I am a high performing rising student and IT specialist with a bright five-years-long history of active participation in the computer software industry. My energetic soul is fully committed to and truly passionate about my specialty. My artistic and oratorical skills perfectly accompany my amiability and make me a valuable asset of any team I join. My stress-handling and adaptiveness are evidenced by the difficulties I have overcome as an international student.
+Throughout my five years in the computer software industry, I have honed my skills in software development, testing, and troubleshooting, as well as in collaborating with cross-functional teams to deliver high-quality results. Moreover, as an international student, I have developed exceptional adaptability and stress-handling skills, which enable me to thrive in fast-paced and dynamic environments.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat!</b> :)</em>
