@@ -7,14 +7,15 @@
 
 <p>
   <em>
-    B.S. in Computer Science at the <a href="https://www.usf.edu/">University of South Florida</a>
+    Computer Science alum at the <a href="https://www.usf.edu/">University of South Florida</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     </br>
-  Full-Stack Developer & IT Consultant at <a href="https://www.usf.edu/honors/">USF Honors College</a>
+  ex-Tech Lead and Full-Stack Developer at <a href="https://www.usf.edu/honors/">USF Honors College</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     </br>
-  Software Engineer at <a href="https://www.vsp.com/">VSP Vision</a>
-  <img src="https://cdn.vsp.com/dam/jcr:88ea3153-d530-44ba-b88e-4a16c24a14fc" width="30"> 
+  ex- Software Engineer at <a href="https://www.vsp.com/">VSP Vision</a>
+  <img src="https://vspvision.com/dam/jcr:97faee77-41af-4812-aad6-bb4cdb0a6686/VSP_Vision_Logotype_RGB_long.png" width="50"> 
+  and System Engineer at <a href="https://www.twitch.tv/">Twitch</a> <img src="https://assets.twitch.tv/assets/coolcat-edacb6fbd813ce2f0272.png" width="30"> 
 </em>
 </p>
 
