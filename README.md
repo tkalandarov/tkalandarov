@@ -7,11 +7,11 @@
 
 <p>
   <em>
-    Computer Science alum at the <a href="https://www.usf.edu/">University of South Florida</a>
+    M.S. in Computer Science at <a href="https://www.bu.edu/">Boston University</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     </br>
-  ex-Tech Lead and Full-Stack Developer at <a href="https://www.usf.edu/honors/">USF Honors College</a>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Software Engineer at <a href="https://vkvideo.ru/">VK Video</a>
+  <img src="https://vk.company/_next/static/media/logo.95718e42.svg" width="20"> 
     </br>
   ex- Software Engineer at <a href="https://www.vsp.com/">VSP Vision</a>
   <img src="https://vspvision.com/dam/jcr:97faee77-41af-4812-aad6-bb4cdb0a6686/VSP_Vision_Logotype_RGB_long.png" width="50"> 
